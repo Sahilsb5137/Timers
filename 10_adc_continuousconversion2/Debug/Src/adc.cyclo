@@ -1,3 +1,0 @@
-adc.c:21:6:adc_init	1
-adc.c:51:6:start_conversion	1
-adc.c:60:10:adc_read	2
